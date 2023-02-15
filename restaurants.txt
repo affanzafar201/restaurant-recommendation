@@ -1,0 +1,10 @@
+{"id":"The Big Chill", "cuisine":1, "cost_bracket":5, "rating":4.5, "is_recommended": true, "onboarded_time": "2023-02-13T22:13:05+05:30"}
+{"id":"Karims", "cuisine":2, "cost_bracket":3, "rating":5, "is_recommended": true, "onboarded_time": "2020-12-13T22:13:05+05:30"}
+{"id":"Meghana", "cuisine":3, "cost_bracket":2, "rating":1.5, "is_recommended": false, "onboarded_time": "2021-12-13T22:13:05+05:30"}
+{"id":"Cafe Delhi Heights", "cuisine":2, "cost_bracket":1, "rating":2.5, "is_recommended": true, "onboarded_time": "2022-12-14T22:13:05+05:30"}
+{"id":"Paul", "cuisine":1, "cost_bracket":2, "rating":3.5, "is_recommended": true, "onboarded_time": "2023-02-15T22:13:05+05:30"}
+{"id":"Carnatic Cafe", "cuisine":2, "cost_bracket":4, "rating":1.0, "is_recommended": true, "onboarded_time": "2012-12-13T22:13:05+05:30"}
+{"id":"Tim Hortons", "cuisine":2, "cost_bracket":4, "rating":1.7, "is_recommended": false, "onboarded_time": "2022-12-12T22:13:05+05:30"}
+{"id":"StarBucks", "cuisine":4, "cost_bracket":2, "rating":4.7, "is_recommended": true, "onboarded_time": "2022-12-13T22:13:05+05:30"}
+{"id":"Chaayos", "cuisine":1, "cost_bracket":3, "rating":2.5, "is_recommended": true, "onboarded_time": "2022-12-13T22:13:05+05:30"}
+{"id":"Empire", "cuisine":3, "cost_bracket":2, "rating":10.5, "is_recommended": true, "onboarded_time": "2022-12-13T22:13:05+05:30"}
