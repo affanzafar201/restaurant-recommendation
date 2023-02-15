@@ -6,13 +6,13 @@
 ## 1. Running Application
 #### 4.1 Running the application:
 
-Change to the Restaurant Recommendation Directory
-```golang
+Clone the repo and change to the restaurant-recommendation directory
+```shell
 $cd restaurant-recommendation
 ```
 
 
-```golang
+```shell
 $go run main.go
 ```
 
